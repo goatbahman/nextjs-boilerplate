@@ -107,7 +107,7 @@ export default function Home() {
             marginBottom: "20px",
           }}
         >
-          اولین Mini App روکسانا ✨
+           Mini App Goat ✨
         </p>
 
         <div
